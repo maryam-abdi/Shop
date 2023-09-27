@@ -1,0 +1,179 @@
+{
+  "items":[
+      {
+        "id": 1,
+        "title": "phone LG1",
+        "class":"phone",
+        "price": 10.99,
+        "image": "./images/phone1.jpg"
+      },
+      {
+        "id": 2,
+        "title": "TV LG1",
+        "class":"tv",
+        "price": 14.99,
+        "image": "./images/tv1.jpg"
+      },
+      {
+        "id": 3,
+        "title": "fridge LG1",
+        "class":"fridge",
+        "price": 7.99,
+        "image": "./images/f1.jpg"
+      },
+      {
+        "id": 4,
+        "title": "washing machine LG1",
+        "class":"washing machine",
+        "price": 11.99,
+        "image": "./images/wash1.jpg"
+      },
+      {
+        "id": 5,
+        "title": "conditioner LG1",
+        "class":"conditioner",
+        "price": 4.99,
+        "image": "./images/c1.jpg"
+      },
+      {
+        "id": 6,
+        "title": "phone LG2",
+        "class":"phone",
+        "price": 23.99,
+        "image": "./images/phone2.jpg"
+      },
+      {
+        "id": 7,
+        "title": "TV LG2",
+        "class":"tv",
+        "price": 42.99,
+        "image": "./images/tv2.jpg"
+      },
+      {
+        "id": 8,
+        "title": "fridge LG2",
+        "class":"fridge",
+        "price": 24.99,
+        "image": "./images/f2.jpg"
+      },
+      {
+        "id": 9,
+        "title": "washing machine LG2",
+        "class":"washing machine",
+        "price": 24.99,
+        "image": "./images/wash2.jpg"
+      }
+      ,   {
+        "id": 10,
+        "title": "conditioner LG2",
+        "class":"conditioner",
+        "price": 24.99,
+        "image": "./images/c2.jpg"
+      }
+      ,   {
+        "id": 11,
+        "title": "phone LG3",
+        "class":"phone",
+        "price": 24.99,
+        "image": "./images/phone3.jpg"
+      }
+      ,   {
+        "id": 12,
+        "title": "TV LG3",
+        "class":"tv",
+        "price": 24.99,
+        "image": "./images/tv3.jpg"
+      }
+      ,   {
+        "id": 13,
+        "title": "fridge LG3",
+        "class":"watch",
+        "price": 24.99,
+        "image": "./images/f3.jpg"
+      },
+      {
+        "id": 14,
+        "title": "washing machine LG3",
+        "class":"washing machine",
+        "price": 24.99,
+        "image": "./images/wash3.jpg"
+      },
+      {
+        "id": 15,
+        "title": "conditioner LG3",
+        "class":"conditioner",
+        "price": 24.99,
+        "image": "./images/c3.jpg"
+      } , 
+      {
+        "id": 16,
+        "title": "phone LG4",
+        "class":"phone",
+        "price": 24.99,
+        "image": "./images/phone4.jpg"
+      } ,
+      {
+        "id": 17,
+        "title": "TV LG4",
+        "class":"tv",
+        "price": 24.99,
+        "image": "./images/tv4.jpg"
+      },
+      {
+        "id": 18,
+        "title": "fridge LG4",
+        "class":"watch",
+        "price": 24.99,
+        "image": "./images/f4.jpg"
+      },
+      {
+        "id": 19,
+        "title": "washing machine LG4",
+        "class":"washing machine",
+        "price": 24.99,
+        "image": "./images/wash4.jpg"
+      },
+      {
+        "id": 20,
+        "title": "conditioner LG4",
+        "class":"conditioner",
+        "price": 24.99,
+        "image": "./images/c4.jpg"
+      } , 
+      {
+        "id": 21,
+        "title": "phone LG5",
+        "class":"phone",
+        "price": 24.99,
+        "image": "./images/phone5.jpg"
+      } ,
+      {
+        "id": 22,
+        "title": "TV LG5",
+        "class":"tv",
+        "price": 24.99,
+        "image": "./images/tv5.jpg"
+      },
+      {
+        "id": 23,
+        "title": "fridge LG5",
+        "class":"watch",
+        "price": 24.99,
+        "image": "./images/f5.jpg"
+      },
+      {
+        "id": 24,
+        "title": "washing machine LG5",
+        "class":"washing machine",
+        "price": 24.99,
+        "image": "./images/wash5.png"
+      },
+      {
+        "id": 25,
+        "title": "conditioner LG5",
+        "class":"conditioner",
+        "price": 24.99,
+        "image": "./images/c5.jpg"
+      }
+    ]
+}

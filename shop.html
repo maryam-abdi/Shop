@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./css/shop.css" />
+    <link rel="stylesheet" href="./css/font.css" />
+    <title>Shop</title>
+  </head>
+  <body>
+    <header class="header--shop">
+      <div class="header--shop-mark">
+        <img src="./icons/lg (2).svg" alt="mark shop" />
+      </div>
+      <div class="header--shop-main">
+        <div class="header--shop-btns">
+          <table>
+            <tr>
+              <td><a href="#" class="btn btn-filter" data-filter="">All</a></td>
+              <td><a href="#" class="btn btn-filter" data-filter="phone">phone LG</a></td>
+              <td>
+                <a href="#" class="btn btn-filter" data-filter="tv">TV LG</a>
+              </td>
+              <td><a href="#" class="btn btn-filter" data-filter="conditioner">conditioner LG</a></td>
+              <td><a href="#" class="btn btn-filter" data-filter="fridge">fridge LG</a></td>
+              <td><a href="#" class="btn btn-filter" data-filter="washing machine">washing machine LG</a></td>
+            </tr>
+          </table>
+        </div>
+        <div class="header--shop-footer">
+          <div class="header--shop-search">
+            <form class="header--shop-search-form">
+              <input type="search" id="search" placeholder="search..." />
+              <span class="search-input">
+                <img src="./icons/search.svg" alt="search icon"
+              /></span>
+            </form>
+          </div>
+          <div class="header--shop-icon">
+            <img src="/icons/cart-plus-2 (2).svg" alt="shop icon" />
+            <span>0</span>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <section class="products">
+      <!-- <div class="product">
+        <img src="/images/product-1.jpeg" class="product--img" alt="" />
+        <div class="products--desc">
+          <p class="product-price">17.66$</p>
+          <p class="product-title">maryam panel bed</p>
+        </div>
+        <button class="btn product--button" data-id>add to cart</button>
+      </div> -->
+    </section>
+
+    <section class="cart-center">
+      <div class="backdrop"></div>
+      <div class="cart">
+        <h3 class="cart-title">Your Cart</h3>
+        <div class="cart-content">
+          <!-- single item -->
+          <!-- <div class="cart-item">
+          <img class="cart-item-img" src="./images/product-2.jpeg" />
+          <div class="cart-item-desc">
+            <h4>product title</h4>
+            <h5>$ 12.99</h5>
+          </div>
+          <div class="cart-item-conteoller">
+          <img src="/icons/chevron-up-2 (1).svg" class="chevron-up" alt="chevron up icon">
+            <p >1</p>
+            <img src="/icons/chevron-down-2.svg" class="chevron-down" alt="chevron down">
+          </div>
+          <img src="/icons/trash-alt (4).svg" class="trash-icon" alt="trash icon">
+        </div> -->
+        </div>
+        <div class="cart-footer">
+          <span class="cart-total">total price : 0 $</span>
+          <button class="btn clear-cart">clear cart</button>
+          <button class="btn cart-item-confirm">confirm</button>
+        </div>
+      </div>
+    </section>
+
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/axios/1.2.2/axios.min.js"
+      integrity="sha512-QTnb9BQkG4fBYIt9JGvYmxPpd6TBeKp6lsUrtiVQsrJ9sb33Bn9s0wMQO9qVBFbPX3xHRAsBHvXlcsrnJjExjg=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    ></script>
+
+    <script type="module" src="./js/shop.js"></script>
+  </body>
+</html>
